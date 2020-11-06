@@ -1,0 +1,13 @@
+{
+    "webhookUrl":"https://discordapp.com/api/webhooks/760970893899071488/E2lJzgfBwUB7ns6QgixvKte4kfxZVBtyLwDIJvA1gW5uZJRFwd4jHnhRnUZRPj5JBD5v",
+    "sellerNotifiers": [
+        {"id": "B08DN23BSM", "sellers": ["Amazon.co.uk"]}
+    ],
+    "notifications": {
+        "enabled": false,
+        "mentions": "@everyone"
+    },
+    "updateInterval": 10,
+    "proxies": [],
+    "headless": true
+}
