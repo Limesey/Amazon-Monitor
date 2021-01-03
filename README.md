@@ -1,4 +1,4 @@
-# Minions-Amazon-Monitor
+# Amazon-Monitor
 
 - Was once a comission project, but since that I both have been paid, and the comissioner hasn't contacted me ever again, I'm open sourcing it.
 
