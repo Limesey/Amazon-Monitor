@@ -43,7 +43,7 @@ $ python src/index.py
 
 - [Python 3.8.4](https://www.python.org/)
 - [Selenium](https://pythonspot.com/selenium/)
-- [BeautifulSoup4 4.9.3](https://pypi.org/project/beautifulsoup4/)
+- [BeautifulSoup4 4.9.1](https://pypi.org/project/beautifulsoup4/)
 
 ## Sources
 
