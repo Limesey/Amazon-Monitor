@@ -31,7 +31,7 @@ $ pip install -r requirements.txt
 Then run it:
 
 ```
-$ python index.py
+$ python src/index.py
 ```
 
 ## Features
